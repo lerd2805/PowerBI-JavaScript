@@ -12,11 +12,14 @@ A client side library for embedding Power BI using JavaScript or TypeScript into
 ## Documentation
 See the [Power BI embedded analytics Client APIs documentation](https://docs.microsoft.com/javascript/api/overview/powerbi/) to learn how to embed a Power BI report in your application and how to use the client APIs.
 
-## Reference
-See the [library reference](https://docs.microsoft.com/en-us/javascript/api/powerbi/powerbi-client/) for detailed information about classes, interfaces, types, etc.
+## Code Docs
+See the [code docs](https://learn.microsoft.com/en-us/javascript/api/powerbi/powerbi-client) for detailed information about classes, interfaces, types, etc.
+
+## Sample Application
+For examples of applications utilizing the `powerbi-client` library, please refer to the  available samples in the [PowerBI-Developer-Samples repository](https://github.com/microsoft/PowerBI-Developer-Samples).
 
 ## Playground
-The [playground](https://aka.ms/pbieplayground) is the home for Power BI embedded analytics, where you can get hands-on coding experience, embed your own reports, and interact with our client APIs to see instant results. In addition, you’ll find there our interactive showcases to get inspiration regarding how you can apply these features in your applications. Lastly, we’ve created a new learning center to help you find all the relevant samples, tutorials, and documentation you’ll need for a successful integration.
+To explore and understand the capabilities of embedded analytics in your applications, please visit the [Power BI Embedded Analytics Playground](https://playground.powerbi.com).
 
 ## Installation
 
